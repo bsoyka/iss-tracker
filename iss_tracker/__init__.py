@@ -8,6 +8,8 @@ import tkinter
 import urllib.request
 from PIL import ImageTk, Image
 import math
+
+prev_lat, prev_long, prev_time, prev_speed = 0, 0, 0, 0
  
 def distance_on_unit_sphere(lat1, long1, lat2, long2):
  
@@ -43,7 +45,6 @@ def distance_on_unit_sphere(lat1, long1, lat2, long2):
 def start():
     top = tkinter.Tk()
     top.title("ISS Tracker")
-    prev_lat, prev_long, prev_time, prev_speed = 0, 0, 0, 0
 
     def counter_label(label):
 
