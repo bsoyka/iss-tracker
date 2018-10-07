@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Name: iss-tracker
+Version: 1.0.1
+Summary: A simple Tkinter GUI for tracking the International Space Station
+Home-page: http://github.com/bsoyka/iss-tracker
+Author: Benjamin Soyka
+Author-email: bensoyka@icloud.com
+License: GPL-3.0
+Description: # ISS Tracker
+Platform: UNKNOWN
+Description-Content-Type: text/markdown
