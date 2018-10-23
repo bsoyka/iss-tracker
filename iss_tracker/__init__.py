@@ -8,6 +8,8 @@ import tkinter
 import urllib.request
 from PIL import ImageTk, Image
 import math
+import sentry_sdk
+sentry_sdk.init("https://9f5c1c4357214c3ea04fb06982d0d91a@sentry.io/1307199")
 
 prev_lat, prev_long, prev_time, prev_speed = 0, 0, 0, 0
 
