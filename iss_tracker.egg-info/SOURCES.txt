@@ -4,5 +4,6 @@ iss_tracker/__init__.py
 iss_tracker.egg-info/PKG-INFO
 iss_tracker.egg-info/SOURCES.txt
 iss_tracker.egg-info/dependency_links.txt
-iss_tracker.egg-info/not-zip-safe
+iss_tracker.egg-info/entry_points.txt
+iss_tracker.egg-info/requires.txt
 iss_tracker.egg-info/top_level.txt
