@@ -20,5 +20,5 @@ setuptools.setup(
         "License :: OSI Approved :: MIT License",
         "Operating System :: OS Independent",
     ],
-    install_requires=["Pillow==7.2.0", "requests==2.24.0"],
+    install_requires=["Pillow==7.2.0", "requests==2.26.0"],
 )
